@@ -1,0 +1,8 @@
+body {
+    background-image: url("Nova pasta/foto.avif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 50px;
+    background-attachment: fixed;
+}
